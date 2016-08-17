@@ -2,3 +2,4 @@
 # how to clone
 # how to pull
 # how to commit&push
+# 20160817 add cathaybank.html
